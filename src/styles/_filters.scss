@@ -1,0 +1,23 @@
+.filters {
+  top: 40%;
+  left: 5%;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  
+  label {
+    margin-left: 5%;
+    font-size: 24px;
+    color: white;
+    font-weight: 700;
+  }
+
+  select {
+    height: 32px;
+    width: 250px;
+    font-size: 24px;
+    margin-left: 5%;
+  }
+
+}

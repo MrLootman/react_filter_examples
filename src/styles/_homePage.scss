@@ -14,9 +14,12 @@
   }
 
   ul {
+    position: absolute;
+    top: 20vh;
+    left: 40vw;
     display: flex;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 24px;
     justify-content: center;
   }
 }
